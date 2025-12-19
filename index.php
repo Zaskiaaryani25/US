@@ -1,4 +1,8 @@
 <?php
-echo "Nama: Muhammad Agus Rizal<br>";
-echo "NPM: 23753105";
+
+    $nama = "Nama Anda";
+    $npm = "NPM Anda";
+    echo "Nama: " . $nama . "\n";
+    echo "NPM: " . $npm . "\n";
+
 ?>
